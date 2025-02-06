@@ -62,8 +62,8 @@ The dataset consists of:
 
 ## **👨‍💻 Author**
 - **Your Name**  
-- 🔗 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)  
-- 🐙 **GitHub**: [Your GitHub](https://github.com/yourusername/)  
+- 🔗 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/candace215/)  
+- 🐙 **GitHub**: [Your GitHub](https://github.com/aiciaching2025/)  
 
 ## **📜 License**
 This project is licensed under the **MIT License**.
